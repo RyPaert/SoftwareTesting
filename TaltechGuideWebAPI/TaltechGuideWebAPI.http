@@ -1,0 +1,6 @@
+@TaltechGuideWebAPI_HostAddress = http://localhost:5120
+
+GET {{TaltechGuideWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
